@@ -1,0 +1,16 @@
+# Build output and IDE state
+Debug/
+Release/
+*.launch
+.settings/
+.metadata/
+*.elf
+*.map
+*.o
+*.d
+*.su
+*.cyclo
+*.bin
+*.hex
+# Generated firmware package (restored by STM32CubeMX / CubeIDE from the .ioc file)
+Drivers/
